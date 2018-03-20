@@ -1,3 +1,7 @@
+# Data files
+Subject18_ConditionAt_L.csv
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
